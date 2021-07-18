@@ -1,0 +1,18 @@
+h1{
+    font-size: 50px; font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    border-style: inset; border-radius: 20px;
+}
+h2{
+    border: solid 1px;
+}
+.contents{
+    display: flex;
+    justify-content: space-between;
+}
+.right{
+    height: 75%;
+    width: 500PX;
+}
