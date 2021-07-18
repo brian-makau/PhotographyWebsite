@@ -17,11 +17,6 @@ h2 {
   display: flex;
   justify-content: space-between;
 }
-.right {
-  height: 75%;
-  width: 500px;
-}
-
 .contact{
     padding: 10px;
     margin-left: 20%;
