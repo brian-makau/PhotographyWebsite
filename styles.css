@@ -29,14 +29,14 @@ input,textarea{
 
 button {
 text-align: center;
-  background-color: red;
+  background-color: goldenrod;
   border: none;
   padding: 2%;
   border-radius: 10px;
   width: 300px;
   height: 35px;
   margin: 20px;
-  color: blue;
+  color: black;
 }
 p{
     font-size: xx-large;
