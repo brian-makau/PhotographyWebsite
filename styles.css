@@ -40,6 +40,9 @@ text-align: center;
 }
 p{
     font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    background-color: grey;
 }
 .footer{
     color: orange;
